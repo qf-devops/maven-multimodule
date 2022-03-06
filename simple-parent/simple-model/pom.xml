@@ -13,6 +13,10 @@
   <packaging>jar</packaging>
 
   <name>Multi-Spring Chapter Simple Object Model</name>
+  <properties>
+     <maven.compiler.source>1.11</maven.compiler.source>
+     <maven.compiler.target>1.11</maven.compiler.target>
+</properties>
 
   <dependencies>
     <dependency>
