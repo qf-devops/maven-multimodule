@@ -9,6 +9,11 @@
     <artifactId>simple-parent</artifactId>
     <version>0.8-SNAPSHOT</version>
   </parent>
+         <properties>
+     <maven.compiler.source>1.11</maven.compiler.source>
+     <maven.compiler.target>1.11</maven.compiler.target>
+</properties>
+
   <artifactId>simple-persist</artifactId>
   <packaging>jar</packaging>
 
